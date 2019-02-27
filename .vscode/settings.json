@@ -1,8 +1,0 @@
-{
-    "cmake.configureOnOpen": true,
-    "cmake.configureArgs": [
-        "-DCMAKE_TOOLCHAIN_FILE=/home/lavinrp/hdd/programming/cpp/ag_vcpkg/scripts/buildsystems/vcpkg.cmake"
-    ],
-    "C_Cpp.default.configurationProvider": "vector-of-bool.cmake-tools"
-
-}
