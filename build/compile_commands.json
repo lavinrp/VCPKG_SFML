@@ -1,7 +1,0 @@
-[
-{
-  "directory": "/opt/hdd/programming/cpp/Experiments/SFML_with_vcpkg/build",
-  "command": "/usr/bin/clang++-6.0  -DSFML_STATIC -isystem /home/lavinrp/hdd/programming/cpp/ag_vcpkg/installed/x64-linux/include  -g   -o CMakeFiles/sfml_hello_world.dir/main.cpp.o -c /opt/hdd/programming/cpp/Experiments/SFML_with_vcpkg/main.cpp",
-  "file": "/opt/hdd/programming/cpp/Experiments/SFML_with_vcpkg/main.cpp"
-}
-]
